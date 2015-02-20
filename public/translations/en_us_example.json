@@ -1,21 +1,21 @@
 {
   "navigation": {
     "home": "Home",
-    "about": "About",
-    "classify": "Classify",
-    "profile": "Profile",
-    "discuss": "Discuss",
+    "about": "Acerca de",
+    "classify": "Clasificar",
+    "profile": "Perfil",
+    "discuss": "Discusión",
     "blog": "Blog"
   },
   "home": {
-    "heading": "Welcome to Snapshot Serengeti",
-    "content": "Hundreds of camera traps in Serengeti National Park, Tanzania,\nare providing a powerful new window into the dynamics of Africa’s most elusive wildlife species.\nWe need your help to classify all the different animals caught in millions of camera trap images.",
-    "allSeasonsComplete": "<p>With your help, we've classified all the data we have so far. Great work!</p>\n<p>\n  We're leaving some images up for further classification, but we have more projects\n  (like <a href=\"https://www.zooniverse.org/project/cyclonecenter\">Cyclone Center</a>\n  and <a href=\"https://www.zooniverse.org/project/batdetective\">Bat Detective</a>) that need your help.\n  Visit <a href=\"https://www.zooniverse.org/\">zooniverse.org</a> to see them all.\n</p>\n<p>\n  Keep an eye on <a href=\"http://blog.snapshotserengeti.org/\">the blog</a>\n  to learn what happens with the data the project has generated\n  and to find out when more images from the Serengeti are available.\n</p>",
-    "action": "Start classifying",
+    "heading": "Binvenido a Snapshot Serengueti",
+    "content": "Cientos de cámaras trampa en el Parque Nacional Serengueti, Tanzania,\nestán proporcionando una poderosa nueva ventana a las dinámicas de las especies animales más elusivas de África.\n Necesitamos tu ayuda para clasificar todas los animales capturados en millones de imágenes de cámaras trampa.",
+    "allSeasonsComplete": "<p> Con vuestra ayuda, hemos clasificado todos los datos que tenemos hasta el momento. ¡Buen trabajo! </p>\n<p>\n  Vamos a dejar algunas imágenes para continuar clasificando, pero tenemos más proyectos\n  (como <a href=\"https://www.zooniverse.org/project/cyclonecenter\">Cyclone Center</a>\n  y <a href=\"https://www.zooniverse.org/project/batdetective\">Bat Detective</a>) que necesitan tu ayuda.\n  Visita <a href=\"https://www.zooniverse.org/\">zooniverse.org</a> para verlos todos.\n</p>\n<p>\n  Manténte atento al <a href=\"http://blog.snapshotserengeti.org/\">blog</a>\n  para saber qué ocurre con los datos que ha generado el proyecto\n  y para averiguar cuándo habrá más imágenes del Serengeti disponibles.\n</p>",
+    "action": "Empieza a clasificar",
     "currentStatus": "<span class=\"classification-count\">0</span> classifications by <span class=\"user-count\">0</span> volunteers"
   },
   "classify": {
-    "deleteAnnotation": "Delete",
+    "deleteAnnotation": "Borrar",
     "notSignedIn": "You're not signed in!",
     "favorite": "Favorite",
     "unfavorite": "Unfavorite",
